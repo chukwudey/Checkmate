@@ -35,4 +35,4 @@ jobs:
 
       - name: Run Login tests
         run: |
-          pytest --maxfail=1 --disable-warnings -q
+          pytest --max fail=1 --disable-warnings -q
