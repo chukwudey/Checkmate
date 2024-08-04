@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  selenium-tests:
+  login-tests:
     runs-on: ubuntu-latest
 
     services:
